@@ -1,0 +1,25 @@
+reference type 
+array 
+function
+object
+#1- function
+var sayHello=function(){
+    alert("hello World")
+}
+#2- array id by sq brackets
+var numArray =[1,2,3];
+var animals = new array["cat","dog","cow"];
+#3 object
+
+var person=(
+    name:'Shreyas Jaiswal',
+    age: "17",
+    title:'student'
+)
+
+= is used for assignment 
+== for comparision value only 
+=== used for strict type checking value and data type and comparision of 2 values
+
+
+
