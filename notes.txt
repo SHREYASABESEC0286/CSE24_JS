@@ -18,8 +18,11 @@ var person=(
 )
 
 = is used for assignment 
-== for comparision value only 
-=== used for strict type checking value and data type and comparision of 2 values
-
-
-
+(==) for comparision value only 
+(===) used for strict type checking value and data type and comparision of 2 valuess
+loops-
+for loop
+var i;
+for (i=0,i<3;i=i+1){
+    console.log(i);
+}
